@@ -1,0 +1,1 @@
+# beancount-manual-chinese
